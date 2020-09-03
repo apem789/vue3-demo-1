@@ -37,7 +37,7 @@ export default defineComponent({
     },
   },
   setup(props) {
-    console.log(props.item)
+    console.log(props.info)
   },
 })
 </script>
